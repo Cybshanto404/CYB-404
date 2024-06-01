@@ -308,7 +308,7 @@ logo ="""
 \033[1;31m│\033[1;37m👉  \033[1;32mFACEBOOK\033[1;31m➟\033[1;32m   𝐒𝐡𝐚 𝐍 𝐓𝐨   \033[1;31m
 \033[1;31m│\033[1;37m👉  \033[1;32mPARTNER\033[1;31m   ➟\033[1;32m   𝗦𝗛𝗔𝗡𝗧𝗢 × ??𝗜𝗣𝗨𝗟  \033[1;31m
 \033[1;31m│\033[1;37m👉  \033[1;32mSTATUS\033[1;31m      ➟\033[1;32m    𝗥𝗔𝗡𝗗𝗢𝗠 ᴘʀᴏ  \033[1;31m   
-\033[1;31m│\033[1;37m👉  \033[1;32mVERSION\033[1;31m   ➟\033[1;32m    𝐕 1.0   \033[1;31m
+\033[1;31m│\033[1;37m👉  \033[1;32mVERSION\033[1;31m   ➟\033[1;32m    𝐕 1.1   \033[1;31m
 \033[1;31m│\033[1;37m👉  \033[1;32mGROUP\033[1;31m : \033[1;32m𝐂ʏʙᴇʀ 𝗧𝗘𝗥𝗠𝗨𝗫 𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗧𝗬\033[1;37m {\033[1;36mTBH\033[1;37m}   \033[1;31m          
 \033[1;37m╚\033[1;36mⒸ︎Ⓨ︎Ⓑ︎\033[1;37m══════\033[41m\033[1;37m[ 𓆩𝐈𝐟 𝐘𝐨𝐮𝐫 𝐁𝐚𝐝 𝐒𝐨 𝐈 𝐚𝐦 𝐘𝐨𝐮 𝐃𝐚𝐝𓆪 ]\x1b[0m══════\033[1;36mⒸ︎Ⓨ︎Ⓑ︎ 
 \033[1;31m======================================================"""
@@ -657,8 +657,8 @@ def freeq(uid,pwx,tl):
 		    'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="99"',
 		    'sec-ch-ua-mobile': '?1',
  		   'sec-ch-ua-platform': '"Android"',
- 		   'upgrade-insecure-requests': '1',
-   		 'user-agent': 'Dalvik/2.1.0 (Linux; Android 10; Infinix X656 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/112.0.5615.101 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/411.1.0.29.112;]',
+ 		   'upgrade-insecure-requests': '2',
+   		 'user-agent': 'Dalvik/2.1.0 (Linux; Android 9; SM-J600FN Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.4147.125 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/283.0.0.31.121;]',
 		    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
 		    'sec-fetch-site': 'same-origin',
 		    'sec-fetch-mode': 'navigate',
